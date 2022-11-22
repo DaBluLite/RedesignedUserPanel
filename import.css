@@ -6,3 +6,13 @@
     background-color: var(--background-tertiary);
     box-shadow: none;
 }
+.privateChannels-oVe7HL>.scroller-WSmht3 {
+    border-top-right-radius: 8px;
+}
+.privateChannels-oVe7HL>.searchBar-3TnChZ {
+    margin-bottom: 10px;
+    border-bottom-right-radius: 8px;
+}
+.privateChannels-oVe7HL {
+    background-color: var(--background-primary);
+}
